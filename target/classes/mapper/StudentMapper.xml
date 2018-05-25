@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.ws.all.service.StudentManage"><!-- namespace="接口的绝对路径" -->
+
+    <resultMap id="baseResultMap" type="com.ws.all.bean.Student">
+        <id column="student_number" property="studentNumber" jdbcType="VARCHAR"/>
+        <id column="student_name" property="studentName" jdbcType="VARCHAR"/>
+        <id column="age" property="age" jdbcType="INTEGER"/>
+    </resultMap>
+
+    <sql id="studentTableName">
+        student
+    </sql>
+
+    <sql id="field">
+        student_number,
+        student_name,
+        age
+    </sql>
+
+    <sql id="fieldValue">
+        #{studentNumber, jdbcType=VARCHAR},
+        #{studentName, jdbcType=VARCHAR},
+        #{age, jdbcType=INTEGER}
+    </sql>
+
+    <!-- 通过编码查询 -->
+    <select id="findByStudentNumber" parameterType="java.lang.String" resultMap="baseResultMap">
+        select
+            <include refid="field"></include>
+        from
+            <include refid="studentTableName"></include>
+        where
+            student_number = #{studentNumber, jdbcType=VARCHAR}
+    </select>
+
+    <!-- 查询所有 -->
+    <select id="listAll" resultMap="baseResultMap">
+        select
+            <include refid="field"></include>
+        from
+            <include refid="studentTableName"></include>
+    </select>
+
+    <!-- 新增 -->
+    <insert id="save" parameterType="com.ws.all.bean.Student">
+        insert into
+            <include refid="studentTableName"></include>
+        (
+            <include refid="field"></include>
+        ) values (
+            <include refid="fieldValue"></include>
+        )
+    </insert>
+
+    <!-- 修改 -->
+    <update id="upd" parameterType="com.ws.all.bean.Student">
+        update
+            <include refid="studentTableName"></include>
+        set
+            student_name = #{studentName},
+            age = #{age}
+        where
+            student_number =#{studentNumber, jdbcType=VARCHAR}
+    </update>
+
+    <!-- 删除 -->
+    <delete id="del" parameterType="java.lang.String">
+        delete from
+            <include refid="studentTableName"></include>
+        where
+            student_number =#{studentNumber, jdbcType=VARCHAR}
+    </delete>
+</mapper>
