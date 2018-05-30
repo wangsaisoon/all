@@ -109,5 +109,8 @@
     <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter-freemarker:2.0.2.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.freemarker:freemarker:2.3.28" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-context-support:5.0.6.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter-websocket:2.0.2.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-messaging:5.0.6.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-websocket:5.0.6.RELEASE" level="project" />
   </component>
 </module>

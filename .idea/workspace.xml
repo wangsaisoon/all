@@ -2,379 +2,144 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="20f06e37-1df9-4a23-aa5d-55d684444746" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/all_war.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/all_war_exploded.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_3_4.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_5.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_5.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_5.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_5.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_9_5.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_2_7_9.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_lettuce_lettuce_core_5_0_4_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_buffer_4_1_24_Final.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_4_1_24_Final.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_common_4_1_24_Final.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_4_1_24_Final.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_resolver_4_1_24_Final.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_4_1_24_Final.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_projectreactor_reactor_core_3_1_7_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_2_0_1_Final.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_46.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_7_11.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_7_11.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_5_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_10_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_10_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_31.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_31.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_31.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_9_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_freemarker_freemarker_2_3_28.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_9_Final.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_2_15_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_4_5.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_autoconfigure_1_3_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_starter_1_3_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_16_20.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_25.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_0_2_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_0_2_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_0_2_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_redis_2_0_2_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_freemarker_2_0_2_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_0_2_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_0_2_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_0_2_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_0_2_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_0_2_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_0_2_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_0_2_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_0_2_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_0_7_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_keyvalue_2_0_7_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_redis_2_0_7_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_0_6_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_0_6_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_0_6_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_5_0_6_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_0_6_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_0_6_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_0_6_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_0_6_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_oxm_5_0_6_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_0_6_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_0_6_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_0_6_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_0_6_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_5_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_19.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__redis_clients_jedis_2_9_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/all.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mvnw" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mvnw.cmd" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/ws/all/AllApplication.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/ws/all/bean/Student.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/ws/all/bean/TestA.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/ws/all/bean/dao/StudentDao.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/ws/all/bean/mapper/StudentMapper.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/ws/all/bean/system/SysUser.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/ws/all/controller/TestController.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/ws/all/controller/main/LoginController.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/ws/all/controller/main/MainController.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/ws/all/controller/student/StudentController.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/ws/all/enums/ExceptionEnum.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/ws/all/exception/MyException.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/ws/all/service/RedisLock.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/ws/all/service/StudentManage.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/ws/all/utils/CorsFilter.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/ws/all/utils/Tools.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/logback-spring.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/mapper/StudentMapper.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/img/1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/js/jquery-3.3.1.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/layer/layer.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/layer/mobile/layer.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/layer/mobile/need/layer.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/layer/theme/default/icon-ext.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/layer/theme/default/icon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/layer/theme/default/layer.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/layer/theme/default/loading-0.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/layer/theme/default/loading-1.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/layer/theme/default/loading-2.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/layui/css/layui.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/layui/css/layui.mobile.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/layui/css/modules/code.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/layui/css/modules/laydate/default/laydate.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/layui/css/modules/layer/default/icon-ext.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/layui/css/modules/layer/default/icon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/layui/css/modules/layer/default/layer.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/layui/css/modules/layer/default/loading-0.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/layui/css/modules/layer/default/loading-1.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/layui/css/modules/layer/default/loading-2.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/layui/font/iconfont.eot" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/layui/font/iconfont.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/layui/font/iconfont.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/layui/font/iconfont.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/layui/images/face/0.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/layui/images/face/1.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/layui/images/face/10.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/layui/images/face/11.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/layui/images/face/12.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/layui/images/face/13.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/layui/images/face/14.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/layui/images/face/15.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/layui/images/face/16.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/layui/images/face/17.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/layui/images/face/18.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/layui/images/face/19.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/layui/images/face/2.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/layui/images/face/20.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/layui/images/face/21.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/layui/images/face/22.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/layui/images/face/23.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/layui/images/face/24.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/layui/images/face/25.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/layui/images/face/26.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/layui/images/face/27.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/layui/images/face/28.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/layui/images/face/29.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/layui/images/face/3.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/layui/images/face/30.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/layui/images/face/31.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/layui/images/face/32.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/layui/images/face/33.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/layui/images/face/34.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/layui/images/face/35.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/layui/images/face/36.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/layui/images/face/37.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/layui/images/face/38.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/layui/images/face/39.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/layui/images/face/4.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/layui/images/face/40.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/layui/images/face/41.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/layui/images/face/42.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/layui/images/face/43.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/layui/images/face/44.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/layui/images/face/45.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/layui/images/face/46.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/layui/images/face/47.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/layui/images/face/48.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/layui/images/face/49.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/layui/images/face/5.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/layui/images/face/50.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/layui/images/face/51.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/layui/images/face/52.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/layui/images/face/53.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/layui/images/face/54.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/layui/images/face/55.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/layui/images/face/56.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/layui/images/face/57.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/layui/images/face/58.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/layui/images/face/59.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/layui/images/face/6.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/layui/images/face/60.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/layui/images/face/61.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/layui/images/face/62.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/layui/images/face/63.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/layui/images/face/64.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/layui/images/face/65.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/layui/images/face/66.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/layui/images/face/67.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/layui/images/face/68.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/layui/images/face/69.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/layui/images/face/7.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/layui/images/face/70.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/layui/images/face/71.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/layui/images/face/8.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/layui/images/face/9.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/layui/lay/modules/carousel.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/layui/lay/modules/code.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/layui/lay/modules/element.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/layui/lay/modules/flow.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/layui/lay/modules/form.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/layui/lay/modules/jquery.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/layui/lay/modules/laydate.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/layui/lay/modules/layedit.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/layui/lay/modules/layer.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/layui/lay/modules/laypage.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/layui/lay/modules/laytpl.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/layui/lay/modules/mobile.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/layui/lay/modules/rate.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/layui/lay/modules/table.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/layui/lay/modules/tree.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/layui/lay/modules/upload.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/layui/lay/modules/util.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/layui/layui.all.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/layui/layui.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/templates/ftl/main/bottom.ftl" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/templates/ftl/main/defaults.ftl" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/templates/ftl/main/head.ftl" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/templates/ftl/main/index.ftl" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/templates/ftl/main/left.ftl" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/templates/ftl/main/tab.ftl" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/templates/ftl/main/top.ftl" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/templates/ftl/student/edit.ftl" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/templates/ftl/student/list.ftl" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/ws/all/AllApplicationTests.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/ws/all/RedisJava.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/ws/all/bean/mapper/StudentMapperTest.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/ws/all/service/StudentManageTest.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/application.yml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/mapper/StudentMapper.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/static/img/1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/static/js/jquery-3.3.1.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/static/plugins/layer/layer.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/static/plugins/layer/mobile/layer.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/static/plugins/layer/mobile/need/layer.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/static/plugins/layer/theme/default/icon-ext.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/static/plugins/layer/theme/default/icon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/static/plugins/layer/theme/default/layer.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/static/plugins/layer/theme/default/loading-0.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/static/plugins/layer/theme/default/loading-1.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/static/plugins/layer/theme/default/loading-2.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/static/plugins/layui/css/layui.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/static/plugins/layui/css/layui.mobile.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/static/plugins/layui/css/modules/code.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/static/plugins/layui/css/modules/laydate/default/laydate.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/static/plugins/layui/css/modules/layer/default/icon-ext.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/static/plugins/layui/css/modules/layer/default/icon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/static/plugins/layui/css/modules/layer/default/layer.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/static/plugins/layui/css/modules/layer/default/loading-0.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/static/plugins/layui/css/modules/layer/default/loading-1.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/static/plugins/layui/css/modules/layer/default/loading-2.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/static/plugins/layui/font/iconfont.eot" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/static/plugins/layui/font/iconfont.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/static/plugins/layui/font/iconfont.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/static/plugins/layui/font/iconfont.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/static/plugins/layui/images/face/0.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/static/plugins/layui/images/face/1.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/static/plugins/layui/images/face/10.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/static/plugins/layui/images/face/11.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/static/plugins/layui/images/face/12.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/static/plugins/layui/images/face/13.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/static/plugins/layui/images/face/14.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/static/plugins/layui/images/face/15.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/static/plugins/layui/images/face/16.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/static/plugins/layui/images/face/17.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/static/plugins/layui/images/face/18.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/static/plugins/layui/images/face/19.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/static/plugins/layui/images/face/2.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/static/plugins/layui/images/face/20.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/static/plugins/layui/images/face/21.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/static/plugins/layui/images/face/22.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/static/plugins/layui/images/face/23.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/static/plugins/layui/images/face/24.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/static/plugins/layui/images/face/25.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/static/plugins/layui/images/face/26.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/static/plugins/layui/images/face/27.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/static/plugins/layui/images/face/28.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/static/plugins/layui/images/face/29.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/static/plugins/layui/images/face/3.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/static/plugins/layui/images/face/30.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/static/plugins/layui/images/face/31.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/static/plugins/layui/images/face/32.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/static/plugins/layui/images/face/33.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/static/plugins/layui/images/face/34.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/static/plugins/layui/images/face/35.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/static/plugins/layui/images/face/36.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/static/plugins/layui/images/face/37.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/static/plugins/layui/images/face/38.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/static/plugins/layui/images/face/39.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/static/plugins/layui/images/face/4.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/static/plugins/layui/images/face/40.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/static/plugins/layui/images/face/41.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/static/plugins/layui/images/face/42.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/static/plugins/layui/images/face/43.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/static/plugins/layui/images/face/44.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/static/plugins/layui/images/face/45.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/static/plugins/layui/images/face/46.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/static/plugins/layui/images/face/47.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/static/plugins/layui/images/face/48.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/static/plugins/layui/images/face/49.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/static/plugins/layui/images/face/5.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/static/plugins/layui/images/face/50.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/static/plugins/layui/images/face/51.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/static/plugins/layui/images/face/52.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/static/plugins/layui/images/face/53.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/static/plugins/layui/images/face/54.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/static/plugins/layui/images/face/55.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/static/plugins/layui/images/face/56.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/static/plugins/layui/images/face/57.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/static/plugins/layui/images/face/58.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/static/plugins/layui/images/face/59.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/static/plugins/layui/images/face/6.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/static/plugins/layui/images/face/60.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/static/plugins/layui/images/face/61.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/static/plugins/layui/images/face/62.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/static/plugins/layui/images/face/63.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/static/plugins/layui/images/face/64.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/static/plugins/layui/images/face/65.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/static/plugins/layui/images/face/66.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/static/plugins/layui/images/face/67.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/static/plugins/layui/images/face/68.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/static/plugins/layui/images/face/69.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/static/plugins/layui/images/face/7.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/static/plugins/layui/images/face/70.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/static/plugins/layui/images/face/71.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/static/plugins/layui/images/face/8.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/static/plugins/layui/images/face/9.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/static/plugins/layui/lay/modules/carousel.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/static/plugins/layui/lay/modules/code.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/static/plugins/layui/lay/modules/element.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/static/plugins/layui/lay/modules/flow.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/static/plugins/layui/lay/modules/form.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/static/plugins/layui/lay/modules/jquery.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/static/plugins/layui/lay/modules/laydate.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/static/plugins/layui/lay/modules/layedit.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/static/plugins/layui/lay/modules/layer.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/static/plugins/layui/lay/modules/laypage.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/static/plugins/layui/lay/modules/laytpl.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/static/plugins/layui/lay/modules/mobile.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/static/plugins/layui/lay/modules/rate.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/static/plugins/layui/lay/modules/table.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/static/plugins/layui/lay/modules/tree.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/static/plugins/layui/lay/modules/upload.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/static/plugins/layui/lay/modules/util.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/static/plugins/layui/layui.all.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/static/plugins/layui/layui.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/templates/ftl/main/bottom.ftl" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/templates/ftl/main/defaults.ftl" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/templates/ftl/main/head.ftl" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/templates/ftl/main/index.ftl" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/templates/ftl/main/left.ftl" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/templates/ftl/main/tab.ftl" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/templates/ftl/main/top.ftl" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/templates/ftl/student/edit.ftl" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/templates/ftl/student/list.ftl" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_websocket_2_0_2_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_messaging_5_0_6_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_websocket_5_0_6_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/ws/all/bean/webscoket/ClientMessage.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/ws/all/bean/webscoket/ServerMessage.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/ws/all/controller/websocket/WebSocketController.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/ws/all/controller/websocket/WebSocketTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/ws/all/utils/websocket/WebSocketStompConfig.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/templates/ftl/websocket/websocketTest.ftl" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/all_war.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/all_war.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/all_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/all_war_exploded.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_3_4.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_3_4.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_5.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_5.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_5.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_5.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_5.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_5.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_5.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_5.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_9_5.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_9_5.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_2_7_9.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_2_7_9.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_lettuce_lettuce_core_5_0_4_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_lettuce_lettuce_core_5_0_4_RELEASE.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_buffer_4_1_24_Final.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_buffer_4_1_24_Final.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_4_1_24_Final.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_4_1_24_Final.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_common_4_1_24_Final.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_common_4_1_24_Final.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_4_1_24_Final.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_4_1_24_Final.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_resolver_4_1_24_Final.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_resolver_4_1_24_Final.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_4_1_24_Final.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_4_1_24_Final.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_projectreactor_reactor_core_3_1_7_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_projectreactor_reactor_core_3_1_7_RELEASE.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_2_0_1_Final.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_2_0_1_Final.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_46.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_46.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_7_11.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_7_11.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_7_11.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_7_11.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_5_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_5_0.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_10_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_10_0.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_10_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_10_0.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_31.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_31.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_31.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_31.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_31.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_31.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_9_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_9_1.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_freemarker_freemarker_2_3_28.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_freemarker_freemarker_2_3_28.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_9_Final.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_9_Final.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_2_15_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_2_15_0.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_4_5.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_4_5.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_1.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_autoconfigure_1_3_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_autoconfigure_1_3_1.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_starter_1_3_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_starter_1_3_1.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_16_20.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_16_20.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_2.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_2.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_25.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_25.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_0_2_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_0_2_RELEASE.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_0_2_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_0_2_RELEASE.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_0_2_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_0_2_RELEASE.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_redis_2_0_2_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_redis_2_0_2_RELEASE.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_freemarker_2_0_2_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_freemarker_2_0_2_RELEASE.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_0_2_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_0_2_RELEASE.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_0_2_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_0_2_RELEASE.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_0_2_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_0_2_RELEASE.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_0_2_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_0_2_RELEASE.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_0_2_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_0_2_RELEASE.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_0_2_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_0_2_RELEASE.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_0_2_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_0_2_RELEASE.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_0_2_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_0_2_RELEASE.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_0_7_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_0_7_RELEASE.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_keyvalue_2_0_7_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_keyvalue_2_0_7_RELEASE.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_redis_2_0_7_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_redis_2_0_7_RELEASE.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_0_6_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_0_6_RELEASE.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_0_6_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_0_6_RELEASE.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_0_6_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_0_6_RELEASE.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_5_0_6_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_5_0_6_RELEASE.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_0_6_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_0_6_RELEASE.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_0_6_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_0_6_RELEASE.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_0_6_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_0_6_RELEASE.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_0_6_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_0_6_RELEASE.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_oxm_5_0_6_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_oxm_5_0_6_RELEASE.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_0_6_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_0_6_RELEASE.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_0_6_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_0_6_RELEASE.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_0_6_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_0_6_RELEASE.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_0_6_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_0_6_RELEASE.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_5_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_5_1.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_19.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_19.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__redis_clients_jedis_2_9_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__redis_clients_jedis_2_9_0.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/all.iml" afterPath="$PROJECT_DIR$/all.iml" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ws/all/bean/Student.java" afterPath="$PROJECT_DIR$/src/main/java/com/ws/all/bean/Student.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ws/all/bean/TestA.java" afterPath="$PROJECT_DIR$/src/main/java/com/ws/all/bean/TestA.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ws/all/bean/dao/StudentDao.java" afterPath="$PROJECT_DIR$/src/main/java/com/ws/all/bean/dao/StudentDao.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ws/all/bean/mapper/StudentMapper.java" afterPath="$PROJECT_DIR$/src/main/java/com/ws/all/bean/mapper/StudentMapper.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ws/all/bean/system/SysUser.java" afterPath="$PROJECT_DIR$/src/main/java/com/ws/all/bean/system/SysUser.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ws/all/controller/TestController.java" afterPath="$PROJECT_DIR$/src/main/java/com/ws/all/controller/TestController.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ws/all/controller/main/LoginController.java" afterPath="$PROJECT_DIR$/src/main/java/com/ws/all/controller/main/LoginController.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ws/all/controller/main/MainController.java" afterPath="$PROJECT_DIR$/src/main/java/com/ws/all/controller/main/MainController.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ws/all/controller/student/StudentController.java" afterPath="$PROJECT_DIR$/src/main/java/com/ws/all/controller/student/StudentController.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ws/all/enums/ExceptionEnum.java" afterPath="$PROJECT_DIR$/src/main/java/com/ws/all/enums/ExceptionEnum.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ws/all/exception/MyException.java" afterPath="$PROJECT_DIR$/src/main/java/com/ws/all/exception/MyException.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ws/all/service/RedisLock.java" afterPath="$PROJECT_DIR$/src/main/java/com/ws/all/service/RedisLock.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ws/all/service/StudentManage.java" afterPath="$PROJECT_DIR$/src/main/java/com/ws/all/service/StudentManage.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ws/all/utils/CorsFilter.java" afterPath="$PROJECT_DIR$/src/main/java/com/ws/all/utils/CorsFilter.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ws/all/utils/Tools.java" afterPath="$PROJECT_DIR$/src/main/java/com/ws/all/utils/Tools.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/mapper/StudentMapper.xml" afterPath="$PROJECT_DIR$/src/main/resources/mapper/StudentMapper.xml" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/ftl/main/bottom.ftl" afterPath="$PROJECT_DIR$/src/main/resources/templates/ftl/main/bottom.ftl" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/ftl/main/defaults.ftl" afterPath="$PROJECT_DIR$/src/main/resources/templates/ftl/main/defaults.ftl" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/ftl/main/head.ftl" afterPath="$PROJECT_DIR$/src/main/resources/templates/ftl/main/head.ftl" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/ftl/main/index.ftl" afterPath="$PROJECT_DIR$/src/main/resources/templates/ftl/main/index.ftl" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/ftl/main/left.ftl" afterPath="$PROJECT_DIR$/src/main/resources/templates/ftl/main/left.ftl" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/ftl/main/tab.ftl" afterPath="$PROJECT_DIR$/src/main/resources/templates/ftl/main/tab.ftl" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/ftl/main/top.ftl" afterPath="$PROJECT_DIR$/src/main/resources/templates/ftl/main/top.ftl" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/ftl/student/edit.ftl" afterPath="$PROJECT_DIR$/src/main/resources/templates/ftl/student/edit.ftl" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/ftl/student/list.ftl" afterPath="$PROJECT_DIR$/src/main/resources/templates/ftl/student/list.ftl" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/ws/all/RedisJava.java" afterPath="$PROJECT_DIR$/src/test/java/com/ws/all/RedisJava.java" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/ws/all/bean/mapper/StudentMapperTest.java" afterPath="$PROJECT_DIR$/src/test/java/com/ws/all/bean/mapper/StudentMapperTest.java" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/ws/all/service/StudentManageTest.java" afterPath="$PROJECT_DIR$/src/test/java/com/ws/all/service/StudentManageTest.java" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.yml" afterPath="$PROJECT_DIR$/target/classes/application.yml" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mapper/StudentMapper.xml" afterPath="$PROJECT_DIR$/target/classes/mapper/StudentMapper.xml" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/ftl/main/bottom.ftl" afterPath="$PROJECT_DIR$/target/classes/templates/ftl/main/bottom.ftl" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/ftl/main/defaults.ftl" afterPath="$PROJECT_DIR$/target/classes/templates/ftl/main/defaults.ftl" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/ftl/main/head.ftl" afterPath="$PROJECT_DIR$/target/classes/templates/ftl/main/head.ftl" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/ftl/main/index.ftl" afterPath="$PROJECT_DIR$/target/classes/templates/ftl/main/index.ftl" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/ftl/main/left.ftl" afterPath="$PROJECT_DIR$/target/classes/templates/ftl/main/left.ftl" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/ftl/main/tab.ftl" afterPath="$PROJECT_DIR$/target/classes/templates/ftl/main/tab.ftl" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/ftl/main/top.ftl" afterPath="$PROJECT_DIR$/target/classes/templates/ftl/main/top.ftl" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/ftl/student/edit.ftl" afterPath="$PROJECT_DIR$/target/classes/templates/ftl/student/edit.ftl" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/ftl/student/list.ftl" afterPath="$PROJECT_DIR$/target/classes/templates/ftl/student/list.ftl" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -390,8 +155,8 @@
       <file leaf-file-name="StudentController.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/ws/all/controller/student/StudentController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="76" column="54" lean-forward="false" selection-start-line="76" selection-start-column="54" selection-end-line="76" selection-end-column="54" />
+            <state relative-caret-position="200">
+              <caret line="29" column="22" lean-forward="false" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -399,32 +164,101 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StudentMapper.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="StudentMapper.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/ws/all/bean/mapper/StudentMapper.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="300">
-              <caret line="59" column="36" lean-forward="true" selection-start-line="59" selection-start-column="36" selection-end-line="59" selection-end-column="36" />
+              <caret line="20" column="14" lean-forward="true" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="StudentManage.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ws/all/service/StudentManage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-469">
+              <caret line="14" column="17" lean-forward="false" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="301">
-              <caret line="85" column="18" lean-forward="false" selection-start-line="85" selection-start-column="18" selection-end-line="85" selection-end-column="18" />
+            <state relative-caret-position="253">
+              <caret line="72" column="21" lean-forward="false" selection-start-line="72" selection-start-column="21" selection-end-line="72" selection-end-column="21" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="application.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
+      <file leaf-file-name="WebSocketStompConfig.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ws/all/utils/websocket/WebSocketStompConfig.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="14" column="17" lean-forward="true" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+            <state relative-caret-position="193">
+              <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WebSocketController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ws/all/controller/websocket/WebSocketController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="331">
+              <caret line="26" column="21" lean-forward="false" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="websocketTest.ftl" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/templates/ftl/websocket/websocketTest.ftl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1950">
+              <caret line="78" column="7" lean-forward="false" selection-start-line="78" selection-start-column="7" selection-end-line="78" selection-end-column="7" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WebSocketTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ws/all/controller/websocket/WebSocketTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="142">
+              <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ClientMessage.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ws/all/bean/webscoket/ClientMessage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="250">
+              <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ServerMessage.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ws/all/bean/webscoket/ServerMessage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="206">
+              <caret line="9" column="5" lean-forward="false" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+              <folding>
+                <element signature="e#264#265#0" expanded="true" />
+                <element signature="e#318#319#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -496,6 +330,15 @@
         <option value="$PROJECT_DIR$/src/main/java/com/ws/all/controller/student/StudentController.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ws/all/bean/mapper/StudentMapper.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ws/all/utils/WebSocketStompConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ws/all/bean/ClientMessage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ws/all/bean/webscoket/ClientMessage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ws/all/bean/webscoket/ServerMessage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ws/all/utils/websocket/WebSocketStompConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ws/all/controller/websocket/WebSocket.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ws/all/controller/websocket/WebSocketController.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/ftl/websocket/websocketTest.ftl" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ws/all/controller/websocket/WebSocketTest.java" />
       </list>
     </option>
   </component>
@@ -513,7 +356,7 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="683" />
     <option name="width" value="683" />
     <option name="height" value="728" />
@@ -616,6 +459,16 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="all" type="462c0819:PsiDirectoryNode" />
+              <item name="bean" type="462c0819:PsiDirectoryNode" />
+              <item name="webscoket" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="all" type="b2602c69:ProjectViewProjectNode" />
+              <item name="all" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="all" type="462c0819:PsiDirectoryNode" />
               <item name="controller" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -635,7 +488,27 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="all" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+              <item name="websocket" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="all" type="b2602c69:ProjectViewProjectNode" />
+              <item name="all" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="all" type="462c0819:PsiDirectoryNode" />
               <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="all" type="b2602c69:ProjectViewProjectNode" />
+              <item name="all" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="all" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+              <item name="websocket" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="all" type="b2602c69:ProjectViewProjectNode" />
@@ -651,6 +524,14 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
               <item name="mapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="all" type="b2602c69:ProjectViewProjectNode" />
+              <item name="all" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="ftl" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -678,17 +559,17 @@
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\ws_IntelliJ\all\src\main\resources\static\img" />
+      <recent name="D:\ws_IntelliJ\all\src\main\webapp\WEB-INF\jsp" />
+      <recent name="D:\ws_IntelliJ\all\src\main\webapp\WEB-INF" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\ws_IntelliJ\all\src\main\resources\templates\ftl\student" />
       <recent name="D:\ws_IntelliJ\all\src\main\resources\static" />
       <recent name="D:\ws_IntelliJ\all\src\main\resources\static\plugins" />
       <recent name="D:\ws_IntelliJ\all\src\test\java\com\ws\all" />
       <recent name="D:\ws_IntelliJ\all" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\ws_IntelliJ\all\src\main\resources\static\img" />
-      <recent name="D:\ws_IntelliJ\all\src\main\webapp\WEB-INF\jsp" />
-      <recent name="D:\ws_IntelliJ\all\src\main\webapp\WEB-INF" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -868,8 +749,16 @@
       <workItem from="1527048513096" duration="7925000" />
       <workItem from="1527080686024" duration="163000" />
       <workItem from="1527081017005" duration="850000" />
-      <workItem from="1527126781377" duration="9735000" />
+      <workItem from="1527126781377" duration="12348000" />
     </task>
+    <task id="LOCAL-00001" summary="提交一下试试？">
+      <created>1527219596494</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1527219596494</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -881,10 +770,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58786000" />
+    <option name="totallyTimeSpent" value="61399000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="683" y="0" width="683" height="728" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32913387" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
@@ -906,7 +795,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4158576" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29685158" sideWeight="0.5" order="6" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21888727" sideWeight="0.5" order="6" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -925,6 +814,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="提交一下试试？" />
+    <option name="LAST_COMMIT_MESSAGE" value="提交一下试试？" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <option name="time" value="2" />
@@ -932,24 +825,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/student/list.jsp" />
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/index.jsp" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ws/all/ServletInitializer.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/ftl/main/index.jsp" />
-    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/ftl/main/top.ftl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="40" lean-forward="false" selection-start-line="0" selection-start-column="40" selection-end-line="0" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/ftl/main/defaults.ftl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="39" lean-forward="true" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/templates/ftl/main/tab.ftl">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
@@ -970,13 +845,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
           <caret line="18" column="17" lean-forward="false" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ws/all/bean/TestA.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -1317,14 +1185,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ws/all/service/StudentManage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="28" column="18" lean-forward="false" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/ws/all/bean/Student.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="81">
@@ -1351,10 +1211,99 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="17" lean-forward="false" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="72" column="21" lean-forward="false" selection-start-line="72" selection-start-column="21" selection-end-line="72" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ws/all/bean/TestA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ws/all/bean/webscoket/ClientMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ws/all/bean/webscoket/ServerMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="9" column="5" lean-forward="false" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+          <folding>
+            <element signature="e#264#265#0" expanded="true" />
+            <element signature="e#318#319#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ws/all/controller/websocket/WebSocketTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ws/all/controller/websocket/WebSocketController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="26" column="21" lean-forward="false" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ws/all/utils/websocket/WebSocketStompConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/ftl/websocket/websocketTest.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1950">
+          <caret line="78" column="7" lean-forward="false" selection-start-line="78" selection-start-column="7" selection-end-line="78" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ws/all/service/StudentManage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-469">
+          <caret line="14" column="17" lean-forward="false" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/ws/all/controller/student/StudentController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="76" column="54" lean-forward="false" selection-start-line="76" selection-start-column="54" selection-end-line="76" selection-end-column="54" />
+        <state relative-caret-position="200">
+          <caret line="29" column="22" lean-forward="false" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1364,23 +1313,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/ws/all/bean/mapper/StudentMapper.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
-          <caret line="59" column="36" lean-forward="true" selection-start-line="59" selection-start-column="36" selection-end-line="59" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="14" column="17" lean-forward="true" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
-          <caret line="85" column="18" lean-forward="false" selection-start-line="85" selection-start-column="18" selection-end-line="85" selection-end-column="18" />
+          <caret line="20" column="14" lean-forward="true" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
           <folding />
         </state>
       </provider>
